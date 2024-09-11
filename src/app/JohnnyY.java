@@ -2,6 +2,6 @@ package app;
 
 public class JohnnyY {
 public static void main(String[] args) {
-	System.out.print("我是王政威");
+	System.out.print("我不是王政威");
 }
 }
